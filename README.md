@@ -1,47 +1,88 @@
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=e9f5f8" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e9f5f8" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Khaled+Samim+;iOS+Developer+;WWDC26+Scholar+;Welcome+to+my+GitHub+profile!" alt="Headline" />
+
+<br/>
+
+<img height="350" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> 
+
 </div>
 
-###
-
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Khaled+Samim+;iOS+Developer+;WWDC26+Scholar+;Welcome+to+my+GitHub+profile!" alt="Headline" />
-    </div>
+---
 
 <div align="center">
-  <img height="350" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
-</div>
 
-###
+## 🚀 About Me
 
-<div align="center">
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=itkhld1&label=Profile%20views&color=0e75b6&style=flat" alt="itkhld1" /> 
-  </p>
-</div>
+I’m a passionate iOS developer focused on building smart, efficient, and user-centered applications.  
+My work revolves around **Swift**, **SwiftUI**, and the Apple ecosystem, where I enjoy turning ideas into polished, real-world products.
 
-###
+Currently, I’m diving deeper into:  
+📱 Advanced iOS development  
+⚡ Real-time mobile systems  
+🤖 AI-powered applications  
 
-<h3 align="center">👨‍💻 About Me</h3>
+---
 
-<p align="center">
-  I'm a Computer Engineering undergraduate at Pamukkale University and a 2026 Apple Swift Student Challenge Winner. <br>
-  I am passionate about creating smart and efficient applications, with a strong focus on iOS development using Swift, SwiftUI, and Xcode. <br>
-  Currently, I am expanding my expertise in building innovative mobile solutions, real-time applications, and AI integrations.
-</p>
+## 🏆 Highlights & Projects
 
-###
+### 🍏 Zeytin  
+**Apple Swift Student Challenge 2026 Winning App**  
+A mobile assistant for farmers using **CoreML** to deliver intelligent insights and improve agricultural decision-making.
 
-<h3 align="center">🏆 Highlights & Projects</h3>
+---
 
-<div align="center">
-  <p>🍏 <strong>Zeytin:</strong> Apple Swift Student Challenge 2026 Winning App — A mobile assistant for farmers using CoreML and Swift.</p>
-  <p>🤖 <strong>Aura Finance (BSc Thesis):</strong> An AI-powered personal finance manager featuring Smart Expense Tracking (OCR, Voice Input) and predictive budgeting using XGBoost and TensorFlow.js. Built with React, Node.js, Python, and PostgreSQL.</p>
-  <p>♟️ <strong>Chess Duello:</strong> Contributed to enhancing gameplay UI and optimizing Firebase data flow for a real-time App Store app.</p>
-  <p>🪐 <strong>Planets & More:</strong> Built various iOS apps integrating REST APIs, MVVM/Clean Architecture, and CoreAnimation.</p>
-</div>
+### 🤖 Aura Finance (BSc Thesis)  
+An AI-powered personal finance manager.
 
-###
+**Key Features:**  
+Smart expense tracking with **OCR** and **voice input**  
+Predictive budgeting using **XGBoost** and **TensorFlow.js**
+
+**Tech Stack:**  
+React • Node.js • Python • PostgreSQL  
+
+---
+
+### ♟️ Chess Duello  
+A real-time chess app available on the App Store.
+
+**Contributions:**  
+Improved gameplay UI/UX  
+Optimized Firebase real-time data flow  
+
+---
+
+### 🪐 Planets  
+🔗 https://apps.apple.com/tr/app/planet-solar-system/id6790789495  
+
+An interactive solar system app built with SwiftUI.  
+Explore planets, learn key facts, and visualize space through a clean and engaging UI.
+
+---
+
+### ❤️ Us – Couples App & Widget  
+🔗 https://apps.apple.com/tr/app/us-couples-app-widget/id6780888532  
+
+A modern relationship companion app designed to help couples stay connected through meaningful daily interactions.
+
+**Features:**  
+📱 Interactive home screen widgets  
+⏰ Personalized reminders  
+💬 Engagement-focused relationship tools  
+
+**Concept:**  
+Transforms small daily moments into meaningful shared experiences, helping couples build stronger connections.
+
+---
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
