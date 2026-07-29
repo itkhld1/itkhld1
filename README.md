@@ -28,8 +28,6 @@ Engineering high-performance iOS applications utilizing Swift and SwiftUI. Core 
 
 ---
 
-### Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift" title="Swift" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="Xcode" title="Xcode" style="margin: 0 10px;" />
@@ -41,9 +39,6 @@ Engineering high-performance iOS applications utilizing Swift and SwiftUI. Core 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" style="margin: 0 10px;" />
 </div>
 
----
-
-### Connect
 
 <div align="center">
   <a href="mailto:khalidsamim321@gmail.com">
