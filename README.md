@@ -20,11 +20,14 @@ Engineering high-performance iOS applications utilizing Swift and SwiftUI. Core 
 
 | Project | Description | Stack / Tech |
 | :--- | :--- | :--- |
-| **Zeytin** | Apple Swift Student Challenge 2026 Winner. Mobile assistant utilizing CoreML for agricultural insights. | Swift, CoreML |
-| **Aura Finance** | AI personal finance manager featuring OCR/voice tracking and predictive budgeting. | React, Node.js, Python, PostgreSQL |
-| **[Planets](https://apps.apple.com/tr/app/planet-solar-system/id6790789495)** | Interactive SwiftUI solar system application for space visualization. | Swift, SwiftUI |
-| **[Us – Couples App](https://apps.apple.com/tr/app/us-couples-app-widget/id6780888532)** | Relationship companion featuring interactive widgets, reminders, and engagement tools. | Swift, iOS |
-| **[Chess Duello](https://apps.apple.com/tr/app/chess-duello-real-time-duel/id6743855028)** | Real-time chess application. Optimized gameplay UI/UX and real-time data flow. | iOS, Firebase |
+| **[Zeytin](https://github.com/itkhld1/Zeytin-Swift)** | Apple Swift Student Challenge 2026 Winner. Mobile assistant utilizing CoreML for agricultural insights. | Swift, CoreML |
+| **[Aura Finance](https://github.com/itkhld1/bsc-thesis-finance-tracker)** | AI personal finance manager featuring OCR/voice tracking and predictive budgeting. | React, Node.js, Python, PostgreSQL |
+| **[Planets](https://apps.apple.com/tr/app/planet-solar-system/id6790789495)** | Interactive SwiftUI solar system application for space visualization. Published on the App Store. | Swift, SwiftUI |
+| **[Us – Couples App](https://apps.apple.com/tr/app/us-couples-app-widget/id6780888532)** | Relationship companion featuring interactive widgets, reminders, and engagement tools. Available on the App Store. | Swift, iOS |
+| **[Chess Duello](https://apps.apple.com/tr/app/chess-duello-real-time-duel/id6743855028)** | Real-time chess application with optimized gameplay UI/UX and real-time data flow. Released on the App Store. | iOS, Firebase |
+| **[Velvet – Manifest Your Life](https://apps.apple.com/tr/app/velvet-manifest-your-life/id6766192115)** | AI-powered manifestation and mindfulness app with personalized insights and guided experiences. Now live on the App Store. | Swift, AI APIs |
+| **[Scientific Calculator fx-991EX](https://apps.apple.com/tr/app/scientific-calculator-fx-991ex/id6760968561)** | Advanced scientific calculator replicating fx-991EX functionality with a modern mobile interface. Distributed via the App Store. | Swift, iOS |
+
 
 ---
 
